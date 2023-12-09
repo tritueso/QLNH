@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oz8K14M9VtmjmMygDgis7VcfrBKeWG9ZkrB/2+x4GcwWDkaQlGILvi642ZueTDjZefmGGacqep4XWDM8wkhcSg==",
+  "success": true,
+  "projectFilePath": "C:\\Bai Tap\\QLNH\\WebAPIs\\QLNH_APIs\\QLNH_APIs\\QLNH_APIs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thaibinh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
